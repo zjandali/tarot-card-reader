@@ -1,5 +1,5 @@
 import React from 'react';
-import FireworksAnimation from './FireworksAnimation';
+import TarotReader from './TarotReader';
 
 function App() {
   return (
