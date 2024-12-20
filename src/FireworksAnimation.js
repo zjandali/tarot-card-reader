@@ -65,7 +65,7 @@ const TarotCardPicker = () => {
             >
               <div className="card-inner">
                 <img 
-                  src="https://creactive.astrocenter.fr/tarotouinon/assets/card_back.png" 
+                  src="https://creactive.astrocenter.fr/tarotouinon/assets/themes/default/card_back.png" 
                   alt="Card back" 
                   className="card-back"
                 />
