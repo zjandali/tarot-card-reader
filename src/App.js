@@ -4,7 +4,7 @@ import TarotReader from './TarotReader';
 function App() {
   return (
     <div className="App">
-      <FireworksAnimation />
+      <TarotReader/>
     </div>
   );
 }
